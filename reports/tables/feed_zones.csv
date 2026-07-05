@@ -1,0 +1,3 @@
+swept_axes,Flow rate_min,Flow rate_max,Inclination_min,Inclination_max,peak_concentration,mean_concentration,grid_share_%,Density_min,Density_max
+Flow rate × Inclination,75.0,122.46,67.0,90.0,0.258,0.248,28.3,,
+Flow rate × Density,75.0,122.46,,,0.304,0.235,28.3,8.31,12.0

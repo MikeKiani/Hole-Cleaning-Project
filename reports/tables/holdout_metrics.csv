@@ -1,0 +1,4 @@
+,MAE,MAE_pct,RMSE,R2
+RandomForest,0.0553,5.5251,0.0674,0.7375
+GradientBoosting,0.056,5.5956,0.0679,0.7341
+Stacked,0.0594,5.9408,0.0732,0.6906

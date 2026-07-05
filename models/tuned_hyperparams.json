@@ -1,0 +1,14 @@
+{
+  "RandomForest": {
+    "n_estimators": 250,
+    "max_depth": 40,
+    "min_samples_leaf": 1,
+    "max_features": 1.0
+  },
+  "GradientBoosting": {
+    "n_estimators": 350,
+    "learning_rate": 0.017492711874398423,
+    "max_depth": 2,
+    "subsample": 0.85
+  }
+}
