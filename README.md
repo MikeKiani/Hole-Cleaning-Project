@@ -1,3 +1,5 @@
+Machine-learning pipeline predicts downhole cuttings concentration from drilling parameters and classifies hole-cleaning efficiency. It benchmarks 10 ML models (Random Forest best: R²=0.74), identifies key drivers (flow rate, velocity, mud density), and maps Efficient/Marginal/Poor cleaning zones to detect high-risk feed zones for stuck pipe prevention.
+
 <h1 align="center">Machine-Learning Workflow for the Determination of Hole-Cleaning Conditions</h1>
 
 <p align="center">
